@@ -1,0 +1,32 @@
+{
+  "name": "vite-plugin-file-copy",
+  "version": "1.0.0",
+  "description": "一个vite插件，复制静态资源",
+  "main": "src/index.ts",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crx-96/vite-plugin-file-copy.git"
+  },
+  "keywords": [
+    "vite",
+    "vite-plugin",
+    "vite静态资源复制"
+  ],
+  "files": [
+    "lib"
+  ],
+  "author": "mr.xing.c",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crx-96/vite-plugin-file-copy/issues"
+  },
+  "homepage": "https://github.com/crx-96/vite-plugin-file-copy#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.8",
+    "typescript": "^4.5.4"
+  }
+}
